@@ -5981,6 +5981,12 @@
     githubId = 37017396;
     name = "gbtb";
   };
+  gbyte = {
+    email = "contact@gbyte.dev";
+    github = "gbytedev";
+    githubId = 20415681;
+    name = "Pawel Ginalski";
+  };
   gdamjan = {
     email = "gdamjan@gmail.com";
     matrix = "@gdamjan:spodeli.org";
